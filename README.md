@@ -1,2 +1,2 @@
 # enecorunners.nl
-New site for EnecoRunners 2018!
+Site for EnecoRunners team
